@@ -23,7 +23,7 @@ To build a machine learning model that can:
 - **Target**: `Depression` (Yes/No)
 
 ### Features:
--  `Gender`,`Age`,``City`,`Profession`, `Academic Pressure`, `Work Pressure`, `CGPA`, `Study Satisfaction`, `Job Satisfaction`, `Sleep Duration`, `Dietary Habits`, `Degree`, `Have you ever had suicidal thoughts?`, `Work/Study Hours`, `Financial Stress`, `Family History of Mental Illness`
+-  `Gender`,`Age`,`City`,`Profession`, `Academic Pressure`, `Work Pressure`, `CGPA`, `Study Satisfaction`, `Job Satisfaction`, `Sleep Duration`, `Dietary Habits`, `Degree`, `Have you ever had suicidal thoughts?`, `Work/Study Hours`, `Financial Stress`, `Family History of Mental Illness`
 
 ## Project Overview
 
